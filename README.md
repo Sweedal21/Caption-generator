@@ -1,6 +1,4 @@
-Of course\! Here is the raw Markdown code. You can copy this and save it as a `README.md` file.
 
-```markdown
 # 📸 Image to Caption Generator
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
